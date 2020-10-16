@@ -42,3 +42,9 @@ trainer, with a specified exercise plan for one month.
 
 #### Source Code.
 #### Presentation of Project.
+
+
+##### Group Members
+   * Alka Trivedi
+   * Taniya Adil
+   * Sampada Kathar
