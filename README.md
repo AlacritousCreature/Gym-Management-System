@@ -1,7 +1,7 @@
 # Gym-Management-System
 
 
-An application to help a gym manager manage a GYM hall, with various equipment,
+An Java Application to help a gym manager manage a GYM hall, with various equipment,
 Trainers/customers, equipment’s, and exercise plan, and simple scheduling of the customers
 Subscriptions.
 
@@ -36,9 +36,9 @@ trainer, with a specified exercise plan for one month.
 ### Project contains
 
 #### UML diagrams:  
-1. Use Case diagram.
-2. Class diagram.
-3. CRC diagram(s), illustrating the design of program.
+  1. Use Case diagram.
+  2. Class diagram.
+  3. CRC diagram(s), illustrating the design of program.
 
 #### Source Code.
 #### Presentation of Project.
