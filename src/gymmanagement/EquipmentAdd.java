@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author harsh
+ * @author
  */
 public class EquipmentAdd extends javax.swing.JFrame {
 

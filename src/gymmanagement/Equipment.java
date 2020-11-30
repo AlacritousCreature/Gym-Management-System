@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author harsh
+ * @author
  */
 public class Equipment {
 

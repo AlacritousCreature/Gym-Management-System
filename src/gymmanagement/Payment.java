@@ -7,7 +7,7 @@ package gymmanagement;
 
 /**
  *
- * @author sourabh
+ * @author
  */
 public class Payment extends javax.swing.JFrame {
 

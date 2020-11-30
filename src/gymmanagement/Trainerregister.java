@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author sourabh
+ * @author
  */
 public class Trainerregister extends javax.swing.JFrame {
 

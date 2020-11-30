@@ -12,7 +12,7 @@ import java.lang.*;
 import java.io.*;
 /**
  *
- * @author aadityagadhave
+ * @author
  */
 public class DeleteUser extends javax.swing.JFrame {
 

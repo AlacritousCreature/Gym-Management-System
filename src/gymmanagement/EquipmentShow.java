@@ -7,7 +7,7 @@ package gymmanagement;
 
 /**
  *
- * @author harsh
+ * @author
  */
 public class EquipmentShow extends javax.swing.JFrame {
 
