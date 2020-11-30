@@ -11,3 +11,6 @@ asd 12
 tred Mill 12
 sas 123
 scs 1234
+treadmill 1
+xxz 1
+x 1

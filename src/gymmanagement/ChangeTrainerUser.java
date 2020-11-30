@@ -7,7 +7,7 @@ package gymmanagement;
 
 /**
  *
- * @author aadityagadhave
+ * @author
  */
 public class ChangeTrainerUser extends javax.swing.JFrame {
 

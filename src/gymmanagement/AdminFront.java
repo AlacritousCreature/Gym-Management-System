@@ -16,7 +16,7 @@ import javax.swing.JTable;
 
 /**
  *
- * @author harsh
+ * @author
  */
 public class AdminFront extends javax.swing.JFrame {
 
@@ -256,7 +256,7 @@ public class AdminFront extends javax.swing.JFrame {
 
     private void jMenuItem7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem7ActionPerformed
         // TODO add your handling code here:
-        String n = JOptionPane.showInputDialog("Please enter the Username of the trainer");
+        String n = JOptionPane.showInputDialog("Please enter the Username of the Customer");
         if (CustomerL.containsKey(n)) {
             U = CustomerO.get(n);
             new UserForm().setVisible(true);

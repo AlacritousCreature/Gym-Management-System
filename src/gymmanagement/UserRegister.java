@@ -17,7 +17,7 @@ import java.io.*;
 
 /**
  *
- * @author aadityagadhave
+ * @author
  */
 public class UserRegister extends javax.swing.JFrame {
 

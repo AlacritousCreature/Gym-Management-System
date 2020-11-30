@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author sourabh
+ * @author
  */
 public class Trainer extends javax.swing.JFrame {
 
